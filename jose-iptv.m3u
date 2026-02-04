@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="Documentales",NASA TV
+https://ntv1.akamaized.net/hls/live/2014076/NASA-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Movies" group-title="Peliculas",Pluto TV Movies
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e8f3e2/master.m3u8
