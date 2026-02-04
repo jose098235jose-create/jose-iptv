@@ -1,7 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="NASA TV" group-title="Documentales",NASA TV
-https://ntv1.akamaized.net/hls/live/2014076/NASA-TV/playlist.m3u8
+##### ===== NOTICIAS INTERNACIONALES =====
+#EXTINF:-1 group-title="Noticias" tvg-name="DW Español",DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Movies" group-title="Peliculas",Pluto TV Movies
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e8f3e2/master.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-name="France 24 Español",France 24 ES
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="Noticias" tvg-name="RT Español",RT Español
+https://rt-esp.rttv.com/live/rt-esp.m3u8
+
+##### ===== CANALES INTERNACIONALES =====
+#EXTINF:-1 group-title="Internacional" tvg-name="NHK World",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-name="Arirang TV",Arirang TV
+https://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1/playlist.m3u8
+
+##### ===== ESPAÑA =====
+#EXTINF:-1 group-title="España" tvg-name="Canal 24h",Canal 24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+
+#EXTINF:-1 group-title="España" tvg-name="TVE Internacional",TVE Internacional
+https://rtvelivestream.akamaized.net/rtvesec/tvei/tvei_main.m3u8
+
+##### ===== MÉXICO =====
+#EXTINF:-1 group-title="México" tvg-name="Canal Once",Canal Once
+https://live-canalonce.streaming.fastmedia.com.mx/canalonce.m3u8
+
+#EXTINF:-1 group-title="México" tvg-name="Canal 22",Canal 22
+https://live-canal22.streaming.fastmedia.com.mx/canal22.m3u8
+
+##### ===== COLOMBIA =====
+#EXTINF:-1 group-title="Colombia" tvg-name="Señal Colombia",Señal Colombia
+https://streaming.rtvc.gov.co:443/senalcolombia/senalcolombia.m3u8
+
+#EXTINF:-1 group-title="Colombia" tvg-name="Canal Institucional",Canal Institucional
+https://streaming.rtvc.gov.co:443/canalinstitucional/canalinstitucional.m3u8
+
+##### ===== ARGENTINA =====
+#EXTINF:-1 group-title="Argentina" tvg-name="TV Pública",TV Pública
+https://edge-live17-sl.cvattv.com.ar/live/c3eds/TVPublica/SA_Live_dash_enc/TVPublica.m3u8
+
+##### ===== INFANTIL / EDUCATIVO =====
+#EXTINF:-1 group-title="Infantil" tvg-name="Paka Paka",Paka Paka
+https://edge-live17-sl.cvattv.com.ar/live/c3eds/PakaPaka/SA_Live_dash_enc/PakaPaka.m3u8
